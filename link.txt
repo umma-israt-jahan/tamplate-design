@@ -1,0 +1,5 @@
+<script src="https://kit.fontawesome.com/0f515a4f7c.js" crossorigin="anonymous"></script>
+
+<!-- fontawesome cdn -->
+                                	<link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">    
+https://unpkg.com/ionicons@5.4.0/dist...
